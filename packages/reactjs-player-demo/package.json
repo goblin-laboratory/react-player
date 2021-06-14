@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "@ant-design/icons": "^4.0.6",
-    "@welldone-software/why-did-you-render": "^4.1.3-alpha.0",
+    "@welldone-software/why-did-you-render": "^6.2.0",
     "antd": "^4.1.5",
     "fbemitter": "^2.1.1",
     "flv.js": "^1.5.0",
